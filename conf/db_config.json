@@ -1,0 +1,16 @@
+{
+    "project_db_user": "root",
+    "project_db_password": "liuyexing",
+    "project_db_name": "project_f6003",
+    "project_db_ip":"localhost:3306",
+
+    "cloud_db_user": "root",
+    "cloud_db_password": "liuyexing",
+    "cloud_db_name": "test_bi",
+    "cloud_db_ip":"35.189.189.156:3306",
+    "cloud_ssl_ca":"/Users/Louis/Documents/go_workspace/src/github.com/CodesInvoker/mountain/db/pem/server-ca.pem",
+    "cloud_ssl_cert":"/Users/Louis/Documents/go_workspace/src/github.com/CodesInvoker/mountain/db/pem/client-cert.pem",
+    "cloud_ssl_key":"/Users/Louis/Documents/go_workspace/src/github.com/CodesInvoker/mountain/db/pem/client-key.pem",
+    "cloud_server_name":"project_name:instance_name"
+
+}
